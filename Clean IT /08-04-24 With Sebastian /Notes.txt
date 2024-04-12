@@ -1,0 +1,11 @@
+Remember that you now must have, on your computers
+
+A Virtual Machine (with Hyper-V) running Windows 11
+The Windows Subsystem for Linux (in your host and possibly, in VM) with a Linux distribution (any Ubuntu 22 LTS version will do)
+Anaconda (one-click install with the Navigator)
+Jupyter Notebook Server
+Visual Studio Code
+Notepad++
+Thank you!
+
+Any issue: https://support.dsti.institute
