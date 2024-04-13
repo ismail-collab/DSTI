@@ -1,0 +1,12 @@
+#To acces the files properly
+cd ./book_scapper
+cd ./book-scapper
+
+#Installation of poetry
+poetry install
+
+#Installation de la bibliotheque pour le web scraping
+pip install beautifulsoup4
+
+#Execution of the main script
+poetry run python main.py
