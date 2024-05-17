@@ -1,6 +1,6 @@
 # DataScience-Playground
 
-Welcome to the **DataScience-Playground** repository! This is a collaborative space where I explore and share data science projects and experiments conducted at Data Science Tech Institute (DSTI).
+Welcome to the **DataScience-Playground** repository! This is a collaborative space where I explore and share data science projects and experiments conducted at [DSTI](https://www.datasciencetech.institute/).
 
 ## About This Repository
 
